@@ -2,6 +2,7 @@ body {
  background-image: url("31258502484_59cf226b4f_k.jpg");
   background-repeat: no repeat;
   background-size: cover;
+  transform: rotate: (180deg);
   margin: 0;
   background-position: center;
 }
